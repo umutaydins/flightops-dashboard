@@ -1,6 +1,7 @@
 {
   "tasks": [
-    { "id": 1, "title": "A320 A-check", "priority": "High", "status": "Open" },
-    { "id": 2, "title": "B737 tire inspect", "priority": "Med", "status": "Progress" }
+    { "id": 1, "title": "A320 A-check", "priority": "High", "status": "Open", "description": "Routine A-check cycle", "createdAt": "2025-08-01T09:00:00Z" },
+    { "id": 2, "title": "B737 Tire Inspect", "priority": "Med", "status": "Progress", "description": "Nose gear tire visual", "createdAt": "2025-08-01T10:15:00Z" },
+    { "id": 3, "title": "A330 Avionics Cooling Fan", "priority": "Low", "status": "Done", "description": "Noise check & replacement", "createdAt": "2025-07-30T14:20:00Z" }
   ]
 }
