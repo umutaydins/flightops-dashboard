@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FlightOps – Maintenance Tasks Dashboard
 
 A lightweight **React + TypeScript** dashboard for managing aircraft maintenance tasks.  
